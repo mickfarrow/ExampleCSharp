@@ -4,3 +4,8 @@
 
 /.vs
 /obj
+/ExampleCSharp.sln
+/ExampleCSharpClient/bin/Debug/net6.0
+/ExampleCSharpClient/obj
+/ExampleCSharpLibrary/bin/Debug/net6.0
+/ExampleCSharpLibrary/obj
